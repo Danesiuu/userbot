@@ -3,7 +3,7 @@
 apt update && apt upgrade -y
 ```
 ```
-git clone https://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@github.com/kuymbarom/ubot
+git clone https://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@github.com/Danesiuu/ubot
 ```
 ```
 kalo munculnya "fatal : git clonexxxx"
