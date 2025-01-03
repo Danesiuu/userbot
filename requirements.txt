@@ -33,7 +33,7 @@ wget
 python-dateutil
 emoji
 python-dotenv
-git+https://github.com/wanngntenk/ytta
+git+https://github.com/kuymabar/HAIDE
 ntgcalls==1.2.1
 numpy==1.26.4
 opencv-python-headless==4.10.0.82
