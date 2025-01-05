@@ -11,15 +11,15 @@ __MODULE__ = "ᴅʙ ᴄᴏɴᴛʀᴏʟ"
 __HELP__ = """
 <blockquote><b>Bantuan Untuk DB Control</blockquote></b>
 
-<blockquote><b>perintah : <code>{0}time</code>
+➠perintah : <code>{0}time</code>
     Untuk Menambah - Mengurangi Masa Aktif User</blockquote></b>
 
-<blockquote><b>perintah : <code>{0}cek</code>
+➠perintah : <code>{0}cek</code>
     Untuk Melihat Masa Aktif User</blockquote></b>
 
-<blockquote><b>perintah : <code>{0}addadmin</code> - <code>{0}unadmin</code> - <code>{0}getadmin</code></blockquote></b>
+➠perintah : <code>{0}addadmin</code> - <code>{0}unadmin</code> - <code>{0}getadmin</code></blockquote></b>
 
-<blockquote><b>perintah : <code>{0}seles</code> - <code>{0}unseles</code> - <code>{0}getseles</code></blockquote></b>
+➠perintah : <code>{0}seles</code> - <code>{0}unseles</code> - <code>{0}getseles</code></blockquote></b>
 """
 
 @PY.BOT("prem")
