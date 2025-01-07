@@ -3,19 +3,19 @@
 apt update && apt upgrade -y
 ```
 ```
-git clone https://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@github.com/Danesiuu/userbottt
+git clone https://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@github.com/Danesiuu/userbotttt
 ```
 ```
 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
 ```
 ```
-cd userbottt && screen -S userbottt 
+cd userbotttt && screen -S userbotttt 
 ```
 ```
 bash installnode.sh && apt install python3.10-venv
 ```
 ```
-python3 -m venv userbottt && source userbottt/bin/activate
+python3 -m venv userbotttt && source userbotttt/bin/activate
 ```
 ```
 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
