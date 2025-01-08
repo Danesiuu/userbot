@@ -23,7 +23,7 @@ async def _(client, callback_query):
             f"""
 <blockquote><b>ꜱɪʟᴀʜᴋᴀɴ ᴍᴇʟᴀᴋᴜᴋᴀɴ ᴘᴇᴍʙᴀʏᴀʀᴀɴ ᴛᴇʀʟᴇʙɪʜ ᴛᴀʜᴜʟᴜ ᴋᴇ Qʀɪꜱ ᴅɪ ʙᴀᴡᴀʜ ɪɴɪ</b>           
 
-qʀɪꜱ : ||https://ibb.co.com/P62K3xf||
+qʀɪꜱ : ||https://files.catbox.moe/tg1pxy.jpg||
 
 <b>💬 sɪʟᴀʜᴋᴀɴ ᴋɪʀɪᴍᴋᴀɴ ʙᴜᴋᴛɪ sᴄʀᴇᴇɴsʜᴏᴛ ᴘᴇᴍʙᴀʏᴀʀᴀɴ ᴀɴᴅᴀ: {full_name}</b></blockquote>
 """,
