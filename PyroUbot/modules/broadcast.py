@@ -269,7 +269,7 @@ async def _(client, message):
             await add_to_vars(client.me.id, "BL_ID", chat_id)
             txt = f"""
 <blockquote><b>{grp} ɢʀᴏᴜᴘ: {message.chat.title}</blockquote></b>\n<blockquote><b>{ktrn} ᴋᴇᴛ: ʙᴇʀʜᴀsɪʟ ᴅɪ ᴛᴀᴍʙᴀʜᴋᴀɴ ᴋᴇ ᴅᴀʟᴀᴍ ʟɪsᴛ ᴊᴇᴍʙᴏᴛ</blockquote></b>
-<blockquote><b>UBOT 10K/BULAN BY @HELLOSALVADORESS</b></blockquote>
+<blockquote><b>UBOT 10K/BULAN BY @Danzanaksholeh</b></blockquote>
 """
 
         return await msg.edit(txt)
@@ -296,7 +296,7 @@ async def _(client, message):
 <blockquote><b>{grp} ɢʀᴏᴜᴘ: {message.chat.title}</blockquote></b>
 <blockquote><b>{ktrn} ᴋᴇᴛ: ᴛɪᴅᴀᴋ ᴀᴅᴀ ᴅᴀʟᴀᴍ ʟɪsᴛ ᴊᴇᴍʙᴏᴛ</b></blockquote>
 
-<blockquote><b>UBOT 10K/BULAN BY @HELLOSALVADORESS</b></blockquote>
+<blockquote><b>UBOT 10K/BULAN BY @Danzanaksholeh</b></blockquote>
 """
         else:
             await remove_from_vars(client.me.id, "BL_ID", chat_id)
