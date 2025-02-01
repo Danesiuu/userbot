@@ -8,14 +8,14 @@ from PyroUbot import *
 from PyroUbot.config import *
 from PyroUbot import eor
 
-__MODULE__ = "mention"
+__MODULE__ = "tagall"
 __HELP__ = f"""
- Document for Mention
+ Document for Tagall
 
-• Command: <code>{cmd[0]}tagall</code> [type message/reply message]
+• Command: <code>{[0]}tagall</code> [type message/reply message]
 • Function: Untuk memention semua anggota grup dengan pesan yang anda inginkan.
 
-• Command: <code>{cmd[0]}batal</code>
+• Command: <code>{[0]}batal</code>
 • Function: Untuk membatalkan memention anggota grup.
 """
 
@@ -23,7 +23,7 @@ __HELP__ = f"""
 tagallgcid = []
 
 
-@PY.UBOT("tagall", "batal"))
+@PY.UBOT("tagall", "batal")
 async def _(client, message: Message):
     if message.command[0] == "tagall":
         if message.chat.id in tagallgcid:
