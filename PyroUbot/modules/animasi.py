@@ -31,27 +31,27 @@ NOBLE = [
 
 __MODULE__ = "ᴀɴɪᴍᴀꜱɪ"
 __HELP__ = """
-<blockquote><b>╭〢BANTUAN UNTUK ANIMASI
-││perintah :
-││  <code>{0}dino</code>
-││  <code>{0}awk</code>
-││  <code>{0}loveyou</code>
-││  <code>{0}ange</code>
-││  <code>{0}hmm</code>
-││  <code>{0}lipkol</code>
-││  <code>{0}kntl</code>
-││  <code>{0}ajg</code>
-││  <code>{0}kocok</code>
-││  <code>{0}heli</code>
-││  <code>{0}y</code>
-││  <code>{0}nakal</code>
-││  <code>{0}tank</code>
-││  <code>{0}nah</code>
-││  <code>{0}tembak</code>
-││  <code>{0}piss</code>
-││  <code>{0}bundir</code>
-││  <code<{0}bot</code>
-╰〢  <code>{0}sepongebob</code></b></blockquote>
+<blockquote><b>Bantuan Untuk Animasi
+
+perintah :
+    <code>{0}dino</code>
+    <code>{0}awk</code>
+    <code>{0}loveyou</code>
+    <code>{0}ange</code>
+    <code>{0}hmm</code>
+    <code>{0}lipkol</code>
+    <code>{0}kntl</code>
+    <code>{0}ajg</code>
+    <code>{0}kocok</code>
+    <code>{0}heli</code>
+    <code>{0}y</code>
+    <code>{0}nakal</code>
+    <code>{0}tank</code>
+    <code>{0}nah</code>
+    <code>{0}tembak</code>
+    <code>{0}piss</code>
+    <code>{0}bundir</code>
+    <code>{0}sepongebob</code></b></blockquote>
 """
 
 
@@ -71,7 +71,7 @@ async def hmmm(client, message):
     )
 
 
-@PY.UBOT("ktl")
+@PY.UBOT("kntl")
 @PY.TOP_CMD
 async def kntl(client, message):
     emoji = get_text(message)
@@ -155,7 +155,7 @@ async def awikwok(client, message):
     )
 
 
-@PY.UBOT("ya")
+@PY.UBOT("y")
 @PY.TOP_CMD
 async def ysaja(client, message):
     await message.reply(
@@ -173,15 +173,6 @@ async def ysaja(client, message):
         "▓▓▓▓▓▓█████‡‡‡‡‡‡‡‡‡‡‡‡██\n"
         "█████‡‡‡‡‡‡‡██████████\n",
     )
-@PY.UBOT("bot")
-@PY.TOP_CMD
-async def bot(client, message):
-    await message.reply(
-       "╔╗╔╦══╦═╦═╦══╦═╦══╗\n"
-       "║║║║══╣╦╣╬║╔╗║║╠╗╔╝\n"
-       "║╚╝╠══║╩╣╗╣╔╗║║║║║\n"
-       "╚══╩══╩═╩╩╩══╩═╝╚╝\n", 
-    ) 
 
 
 @PY.UBOT("tank")
@@ -274,71 +265,69 @@ async def spongebobss(client: Client, message: Message):
 @PY.UBOT("kocok")
 @PY.TOP_CMD
 async def kocokk(client, message):
-    e = await message.edit("KOCOKINNNN DONG SAYANKKKKK🤤🤤🥵🥵")
+    e = await message.edit("KOCOKINNNN SAYANGG🥵")
     await asyncio.sleep(0.2)
-    await e.edit("8✊====D")
+    await e.edit("8✊===D")
     await asyncio.sleep(0.2)
-    await e.edit("8=✊===D")
+    await e.edit("8=✊==D")
     await asyncio.sleep(0.2)
-    await e.edit("8==✊==D")
+    await e.edit("8==✊=D")
     await asyncio.sleep(0.2)
-    await e.edit("8===✊=D")
+    await e.edit("8===✊D")
     await asyncio.sleep(0.2)
-    await e.edit("8====✊D")
+    await e.edit("8==✊=D")
     await asyncio.sleep(0.2)
-    await e.edit("8===✊=D")
+    await e.edit("8=✊==D")
     await asyncio.sleep(0.2)
-    await e.edit("8==✊==D")
+    await e.edit("8✊===D")
     await asyncio.sleep(0.2)
-    await e.edit("8=✊===D")
+    await e.edit("8=✊==D")
     await asyncio.sleep(0.2)
-    await e.edit("8✊====D")
+    await e.edit("8==✊=D")
     await asyncio.sleep(0.2)
-    await e.edit("8=✊===D")
+    await e.edit("8===✊D")
     await asyncio.sleep(0.2)
-    await e.edit("8==✊==D")
+    await e.edit("8==✊=D")
     await asyncio.sleep(0.2)
-    await e.edit("8===✊=D")
+    await e.edit("8=✊==D")
     await asyncio.sleep(0.2)
-    await e.edit("8====✊D")
+    await e.edit("8✊===D")
     await asyncio.sleep(0.2)
-    await e.edit("8===✊=D")
+    await e.edit("8=✊==D")
     await asyncio.sleep(0.2)
-    await e.edit("8==✊==D")
+    await e.edit("8==✊=D")
     await asyncio.sleep(0.2)
-    await e.edit("8=✊===D")
+    await e.edit("8===✊D")
     await asyncio.sleep(0.2)
-    await e.edit("8✊====D")
+    await e.edit("8==✊=D")
     await asyncio.sleep(0.2)
-    await e.edit("8=✊===D")
+    await e.edit("8=✊==D")
     await asyncio.sleep(0.2)
-    await e.edit("8==✊==D")
+    await e.edit("8===✊D💦")
     await asyncio.sleep(0.2)
-    await e.edit("8===✊=D")
+    await e.edit("8==✊=D💦💦")
     await asyncio.sleep(0.2)
-    await e.edit("8====✊D💦")
+    await e.edit("8=✊==D💦💦💦")
     await asyncio.sleep(0.2)
-    await e.edit("8===✊=D💦💦")
+    await e.edit("8✊===D💦💦💦💦")
     await asyncio.sleep(0.2)
-    await e.edit("8==✊==D💦💦💦")
+    await e.edit("8===✊D💦💦💦💦💦")
     await asyncio.sleep(0.2)
-    await e.edit("8=✊===D💦💦💦💦")
+    await e.edit("8==✊=D💦💦💦💦💦💦")
     await asyncio.sleep(0.2)
-    await e.edit("8✊====D💦💦💦💦💦")
+    await e.edit("8=✊==D💦💦💦💦💦💦💦")
     await asyncio.sleep(0.2)
-    await e.edit("8=✊====D💦💦💦💦💦💦")
+    await e.edit("8✊===D💦💦💦💦💦💦💦💦")
     await asyncio.sleep(0.2)
-    await e.edit("8==✊==D💦💦💦💦💦💦💦")
+    await e.edit("8===✊D💦💦💦💦💦💦💦💦💦")
     await asyncio.sleep(0.2)
-    await e.edit("8===✊=D💦💦💦💦💦💦💦💦")
-    await asyncio.sleep(0.2)
-    await e.edit("8====✊D💦💦💦💦💦💦💦💦")
+    await e.edit("8==✊=D💦💦💦💦💦💦💦💦💦💦")
     await asyncio.sleep(0.2)
     await e.edit("**CROOTTTT**")
     await asyncio.sleep(0.2)
-    await e.edit("**CROOTTTT AAAHHH BASAHH.....**")
+    await e.edit("**CROOTTTT AAAHHH.....**")
     await asyncio.sleep(0.2)
-    await e.edit("**AHHH ENAKKKKK SAYANGGGG🤤🤤🥵🥵**")
+    await e.edit("AHHH ENAKKKKK SAYANGGGG🥵🥵**")
 
 
 @PY.UBOT("dino")
